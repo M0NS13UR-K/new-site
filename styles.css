@@ -18,7 +18,7 @@ p {
 }
 
 img {
-  border-radius: 70px;
+  border-radius: 50px;
 }
 .profile{
   line-height: 2;
@@ -41,7 +41,7 @@ img {
   background-color: #171717;
   margin: 0 0 0 0;
   position: relative;
-  padding: 100px;
+  padding: 20px;
   line-height: 2;
 }
 
@@ -90,7 +90,7 @@ h1 {
   font-size: 5.625rem;
   font-family: 'Sofia', cursive;
   color: #EDEDED;
-  line-height: 2;
+  line-height: 1;
 }
 
 h2 {
